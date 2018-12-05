@@ -29,7 +29,7 @@
       
 ### Part 3: Test
 
-  1. Test the model on LFW
+  1. Test the model on LFW.
     
       **Note:** I have tested `lfw_eval.py` on the caffe model at [SphereFace](https://github.com/wy1iu/sphereface), it gets the same result.
     
