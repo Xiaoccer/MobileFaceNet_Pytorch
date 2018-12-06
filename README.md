@@ -20,7 +20,7 @@
 
   1. Change the **CAISIA_DATA_DIR** and **LFW_DATA_DAR** in `config.py` to your data path.
   
-  2. Train the MobileFaceNet model. 
+  2. Train the mobilefacenet model. 
   
         **Note:** The default settings set the batch size of 512, use 2 gpus and train the model on 70 epochs. You can change the settings in `config.py`
       ```
