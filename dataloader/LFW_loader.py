@@ -2,6 +2,8 @@ import numpy as np
 import scipy.misc
 
 import torch
+
+
 class LFW(object):
     def __init__(self, imgl, imgr):
 
@@ -29,5 +31,5 @@ class LFW(object):
         return len(self.imgl_list)
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     pass
