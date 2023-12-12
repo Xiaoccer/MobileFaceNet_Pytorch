@@ -8,6 +8,7 @@
 
 * Python 3.5
 * pytorch 0.4+
+* hydra
 * GPU memory
 
 ## Usage
