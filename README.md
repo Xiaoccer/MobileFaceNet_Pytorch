@@ -8,7 +8,7 @@
 
 * Python 3.5
 * pytorch 0.4+
-* GPU menory
+* GPU memory
 
 ## Usage
 
